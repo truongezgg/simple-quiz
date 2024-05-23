@@ -1,0 +1,427 @@
+[
+  {
+    "id": "1",
+    "code": "CODE1",
+    "question": "CODE1: The word they in paragraph 1 refers to ________.",
+    "options": ["people", "cities", "parks", "sports"],
+    "answer": "C"
+  },
+  {
+    "id": "2",
+    "code": "CODE1",
+    "question": "CODE1: According to paragraph 2,  how do parks help people in cities?",
+    "options": [
+      "Plants in the parks emit carbon dioxide that is needed for people to breathe.",
+      "Trees in the parks release the sunâ€™s heat more quickly than building materials.",
+      "Parks make cities warmer than than surrounding rural areas.",
+      "Plants in the parks absorb a pollutant and emit oxygen for people to breathe."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "3",
+    "code": "CODE1",
+    "question": "CODE1: Which of the following is NOT a building materials?",
+    "options": ["oxygen", "metal", "concrete", "asphalt"],
+    "answer": "A"
+  },
+  {
+    "id": "4",
+    "code": "CODE1",
+    "question": "CODE1: The word mitigate in paragraph 2 is closest in meaning to _______.",
+    "options": ["increase", "reduce", "allow", "save"],
+    "answer": "B"
+  },
+  {
+    "id": "5",
+    "code": "CODE1",
+    "question": "CODE1: According to the author, one advantage that rooftop gardens have over parks is that they ________.",
+    "options": [
+      "decrease the Urban Heat Island Effect",
+      "refresh the air with nourishing oxygen",
+      "do not require the use of valuable urban land",
+      "are less expensive than traditional park spaces"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "6",
+    "code": "CODE1",
+    "question": "CODE1: The word others in paragraph 3 refers to _______.",
+    "options": ["gardens", "human beings", "rooftops", "hours of work"],
+    "answer": "A"
+  },
+  {
+    "id": "7",
+    "code": "CODE1",
+    "question": "CODE1: According to paragraph 3, when did people begin to create rooftop gardens?",
+    "options": [
+      "some years ago",
+      "some decades ago",
+      "some centuries ago",
+      "thousands of years ago"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "8",
+    "code": "CODE1",
+    "question": "CODE1: According to paragraph 4, what can rooftop gardens do to reduce heating bills?",
+    "options": [
+      "They hold in heat in buildings.",
+      "They prevent building absorbing heat.",
+      "They replace carbon dioxide.",
+      "They provide vegetables and herbs."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "9",
+    "code": "CODE1",
+    "question": "CODE1: The author claims all of the following to be the benefits of rooftop gardens EXCEPT ________.",
+    "options": [
+      "beautiful decoration for houses",
+      "savings on cooling bills",
+      "better food for city dwellers",
+      "improved air quality"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "10",
+    "code": "CODE1",
+    "question": "CODE1: According to paragraph 3 and 4, which of the following best describes the main difference between parks and rooftop gardens?",
+    "options": [
+      "Parks are expensive to create while rooftop gardens are not.",
+      "Parks are public while rooftop gardens are private.",
+      "Parks absorb heat while rooftop gardens do not.",
+      "Parks require much space while rooftop gardens do not."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "11",
+    "code": "CODE1",
+    "question": "CODE1: What is the main topic of this passage?",
+    "options": [
+      "A language developed in the last few years",
+      "One man’s efforts to create a universal language",
+      "Using language to communicate internationally",
+      "How language can be improved"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "12",
+    "code": "CODE1",
+    "question": "CODE1: According to the passage, Zamenhof wanted to create a universal language ______.",
+    "options": [
+      "to provide a more complex language",
+      "to create one world culture",
+      "to resolve cultural differences",
+      "to build a name for himself"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "13",
+    "code": "CODE1",
+    "question": "CODE1: It can be inferred from the passage that the Esperanto word “malespera” means ______.",
+    "options": ["hopelessness", "hopeless", "hope", "hopeful"],
+    "answer": "B"
+  },
+  {
+    "id": "14",
+    "code": "CODE1",
+    "question": "CODE1: The expression “popping up” in paragraph 4 could best be replaced by ______.",
+    "options": ["hiding", "shouting", "leaping", "opening"],
+    "answer": "D"
+  },
+  {
+    "id": "15",
+    "code": "CODE1",
+    "question": "CODE1: It can be inferred from the passage that the Third World Congress of Esperanto took place in ______.",
+    "options": [1905, 1907, 1909, 1913],
+    "answer": "B"
+  },
+  {
+    "id": "16",
+    "code": "CODE1",
+    "question": "CODE1: According to the passage, what happened to the Tenth World Esperanto Congress?",
+    "options": [
+      "It was scheduled for 1915.",
+      "It had attendees from 20 countries.",
+      "It never took place.",
+      "It had 4,000 attendees."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "17",
+    "code": "CODE1",
+    "question": "CODE1: The expression “ups and downs” in paragraph 6 is closest in meaning to ______.",
+    "options": [
+      "takeoffs and landings",
+      "floors and ceilings",
+      "highs and lows",
+      "tops and bottoms"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "18",
+    "code": "CODE1",
+    "question": "CODE1: Which paragraph describes the predecessor to Esperanto?",
+    "options": [
+      "The first paragraph",
+      "The second paragraph",
+      "The third paragraph",
+      "The fourth paragraph"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "19",
+    "code": "CODE1",
+    "question": "CODE1: The passage would most likely be assigned reading in a course on ______.",
+    "options": [
+      "applied linguistics",
+      "European history",
+      "English grammar",
+      "world government"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "20",
+    "code": "CODE1",
+    "question": "CODE1: The paragraph following the passage most likely discusses ______.",
+    "options": [
+      "another of Zamenhof’s accomplishments",
+      "attempts to reconvene the World Congress of Esperanto in the 1920s",
+      "the disadvantages of using an artificial language",
+      "how current supporters of Esperanto are encouraging its growth"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "21",
+    "code": "CODE1",
+    "question": "CODE1: Which of the following is true about the extreme weather events?",
+    "options": [
+      "They have an influence on the climate.",
+      "They kill more people than before.",
+      "They cause mud slides in Bangkok.",
+      "They are part of a long-term change."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "22",
+    "code": "CODE1",
+    "question": "CODE1: According to paragraph 2 of the article, _________.",
+    "options": [
+      "scientists don’t know what causes extreme weather.",
+      "there’s more than one factor influencing our weather.",
+      "it’s not possible for humans to influence the weather.",
+      "big storms, such as hurricanes and typhoons, come from the oceans."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "23",
+    "code": "CODE1",
+    "question": "CODE1: Why was the rain in Nashville considered to be an extreme event?",
+    "options": [
+      "There was very high rainfall over many days.",
+      "The amount of rain was forecast in advance.",
+      "There was very high rainfall in a very short time.",
+      "The amount of rain was unmeasurable."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "24",
+    "code": "CODE1",
+    "question": "CODE1: Which of the following is true about the rainfall in Nashville in May 2010?",
+    "options": [
+      "It caused very rare flooding.",
+      "It last happened a thousand years ago.",
+      "It happens every one hundred years.",
+      "It was more frequent in the past."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "25",
+    "code": "CODE1",
+    "question": "CODE1: What caused deaths in Rio de Janeiro?",
+    "options": [
+      "People were trapped under soil",
+      "The intensity of the rain",
+      "Extensive floods",
+      "The yearly mud slides"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "26",
+    "code": "CODE1",
+    "question": "CODE1: According to the article, __________.",
+    "options": [
+      "there has been a dramatic increase in the economic costs of extreme weather",
+      "extreme weather events have risen by 25 percent since 2010",
+      "in 2011, 25 percent of financial losses were weather-related",
+      "the under-watered factories manufacture computer hard drives"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "27",
+    "code": "CODE1",
+    "question": "CODE1: Which statement is NOT supported by information in the article?",
+    "options": [
+      "Extreme weather is influenced by human activity.",
+      "Unusual weather events are part of natural weather cycles.",
+      "In the world, there are two weather cycles affect weather patterns worldwide",
+      "Such extreme weather is too rare to be a result of climate change."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": "28",
+    "code": "CODE1",
+    "question": "CODE1: What is the key factor in the formation of storms?",
+    "options": [
+      "warmer land temperatures",
+      "greenhouse gases",
+      "moisture in the air",
+      "the heat released by air-conditioners"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "29",
+    "code": "CODE1",
+    "question": "CODE1: Why did fewer people die in France in the 2006 heat wave?",
+    "options": [
+      "There were better facilities provided.",
+      "Fewer people were in city centers at the time.",
+      "It wasn’t as severe as in 2003.",
+      "People didn’t go out when it was too hot."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "30",
+    "code": "CODE1",
+    "question": "CODE1: According to Michael Oppenheimer, what should people do?",
+    "options": [
+      "There’s no way to stop extreme weather.",
+      "We can be better prepared for the effects of climate change.",
+      "We need to spend more money so that fewer people die.",
+      "We need to provide citizens with air conditioners during hottest periods."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "31",
+    "code": "CODE1",
+    "question": "CODE1: According to the passage, sailors 4,000 years ago _______.",
+    "options": [
+      "were able to calculate their speed",
+      "were dependent on stars to tell time",
+      "never ventured away from the coastline",
+      "used the compass to navigate"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "32",
+    "code": "CODE1",
+    "question": "CODE1: The word rudimentary in paragraph 1 is closest in meaning to _______.",
+    "options": ["reliable", "direct", "established", "elementary"],
+    "answer": "D"
+  },
+  {
+    "id": "33",
+    "code": "CODE1",
+    "question": "CODE1: The word it in paragraph 2 refers to ________.",
+    "options": ["premise", "compass", "needle", "pivot"],
+    "answer": "C"
+  },
+  {
+    "id": "34",
+    "code": "CODE1",
+    "question": "CODE1: It is NOT stated in the passage that the astrolabe _______.",
+    "options": [
+      "could determine distance from the equator",
+      "was similar in shape to a sundial",
+      "had moving parts",
+      "was a circular – shaped device"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "35",
+    "code": "CODE1",
+    "question": "CODE1: The word rule as used in paragraph 3 is most likely _______.",
+    "options": [
+      "a regular followed by sailors on a ship",
+      "a law enacted by a government",
+      "a device used to make measurements",
+      "a customary way of acting"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "36",
+    "code": "CODE1",
+    "question": "CODE1: The author refers to the missing piece of the navigational puzzle in paragraph 4 in order to ________.",
+    "options": [
+      "show that navigation was considered as amusing game",
+      "highlight that how to determine longitude was the final problem to be solved",
+      "indicate that missing ships were difficult to find",
+      "determine that it was difficult to calculate latitude"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "37",
+    "code": "CODE1",
+    "question": "CODE1: Look at the four square [ ] that indicate where the following sentence could be added to the last paragraph. 'Though many tried, it took a number of years after the offer was made for someone to succeed.' Where could the sentence best be added?",
+    "options": ["[A]", "[B]", "[C]", "[D]"],
+    "answer": "B"
+  },
+  {
+    "id": "38",
+    "code": "CODE1",
+    "question": "CODE1: Which of the following is NOT a device to determine latitude?",
+    "options": ["chronometer", "sextant", "backstaff", "sundial"],
+    "answer": "A"
+  },
+  {
+    "id": "39",
+    "code": "CODE1",
+    "question": "CODE1: Which of the sentences below best expresses the essential information in the highlighted sentence in paragraph 4?",
+    "options": [
+      "A chronometer could be used to measure longitude by combining knowledge about the rising Sun and accurate measurement of time.",
+      "A chronometer could be used to determine when the Sun was going to rise.",
+      "A chronometer could be used only to calculate longitude if one was traveling in a westerly direction.",
+      "A chronometer was an inaccurate measure of time because of the movement of the ship."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "40",
+    "code": "CODE1",
+    "question": "CODE1: It is implied in the passage that _______.",
+    "options": [
+      "Harrison’s device was not very accurate",
+      "Harrison spent considerable time travelling",
+      "Harrison received 20,000 pounds from Parliament",
+      "Harrison’s device was the best in determining latitude"
+    ],
+    "answer": "C"
+  }
+]
