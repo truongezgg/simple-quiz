@@ -35,6 +35,12 @@ const Start = () => {
             >
               Code 4
             </a>
+            <a
+              href="/5"
+              className="btn mx-2 px-4 py-2 bg-light text-dark fw-bold"
+            >
+              Code 5
+            </a>
             <h1 className="fw-bold mb-4">Choose quiz then click start</h1>
 
             <button
