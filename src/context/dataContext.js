@@ -21,7 +21,7 @@ export const DataProvider = ({ children, quizzes }) => {
     fetch(quizzes)
       .then((res) => res.json())
       .then((data) => setQuizs(data));
-  }, []);
+  }, [quizzes]);
 
   // Set a Single Question
   useEffect(() => {
