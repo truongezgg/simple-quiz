@@ -393,19 +393,5 @@
       "The members of the decision unit leave the unit."
     ],
     "answer": "C"
-  },
-  {
-    "id": "168",
-    "code": "CODE 4",
-    "question": "CODE 4: ",
-    "options": ["", "", "", ""],
-    "answer": ""
-  },
-  {
-    "id": "169",
-    "code": "CODE 4",
-    "question": "CODE 4: CODE 5",
-    "options": ["", "", "", ""],
-    "answer": ""
   }
 ]
